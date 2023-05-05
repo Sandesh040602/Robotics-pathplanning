@@ -1,2 +1,2 @@
 # Robotics-pathplanning
-implementation of AES and DES
+implementation of d* and d* lite
